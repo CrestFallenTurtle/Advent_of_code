@@ -6,7 +6,7 @@ This year I have utilized the following languages,
 |--------------|-----------|------------|------------|
 | 1 | Javascript | Historian Hysteria | Not completed within the allocated time slot |
 | 2 | Haskell |  Red-Nosed Reports | Not completed within the allocated time slot, used chatgpt |
-| 3 | Ruby |   |  |
+| 3 | Ruby | Mull It Over | Not completed within the allocated time slot |
 | 4 | C |   |  |
 | 5 | Perl |  | |
 | 6 | Zig |  | |
