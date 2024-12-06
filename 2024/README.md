@@ -4,8 +4,8 @@ This year I have utilized the following languages,
 
 | Day | Language | Challenge name | Comments |
 |--------------|-----------|------------|------------|
-| 1 | Javascript | Historian Hysteria | Not solved within the timeframe |
-| 2 | Haskell |  Red-Nosed Reports | Not solved within the timeframe, used chatgpt |
+| 1 | Javascript | Historian Hysteria | Not completed within the allocated time slot |
+| 2 | Haskell |  Red-Nosed Reports | Not completed within the allocated time slot, used chatgpt |
 | 3 | Ruby |   |  |
 | 4 | C |   |  |
 | 5 | Perl |  | |
